@@ -1,2 +1,8 @@
-# pyverbs
-An Application to help you learn german irregular verbs, written in Terminal.
+# usage
+* Create a file named vocab
+* in the file list your words and their translations in the following format : 
+
+```
+word=translation
+secondword=secondtranslation
+```
